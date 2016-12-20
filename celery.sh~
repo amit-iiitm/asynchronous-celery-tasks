@@ -1,0 +1,4 @@
+#!/bin/bash
+
+genome-terminal
+celery worker -A client.celery --loglevel=info

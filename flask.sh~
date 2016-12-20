@@ -1,0 +1,4 @@
+#!/bin/bash
+
+genome-terminal
+python client.py 
